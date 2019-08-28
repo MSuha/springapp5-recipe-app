@@ -3,6 +3,7 @@ package guru.springframework.spring5recipeapp.domain;
 import javax.persistence.*;
 import java.util.Set;
 
+@Entity
 public class Category {
 
     @Id
